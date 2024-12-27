@@ -41,15 +41,14 @@ This project is a simple web application for validating mobile numbers. It deter
 
 ### Example
 
-1. Testing Valid Saudi Number
+#### 1. Testing Valid Saudi Number:
 ![image](https://github.com/user-attachments/assets/e3d8caa3-83f8-4911-a4fe-aa69624edbc1)
+=========================================================================================
 
-
-2. Testing Valid International Number
+#### 2. Testing Valid International Number:
 ![image](https://github.com/user-attachments/assets/40dda8c3-79a5-4397-bf34-7ddd3559a890)
+=========================================================================================
 
-
-3. Testing Invalid Number
+#### 3. Testing Invalid Number:
 ![image](https://github.com/user-attachments/assets/92c4e68e-2dfe-4637-aa31-0f099f52623d)
-
-   
+=========================================================================================
